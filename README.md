@@ -1,0 +1,2 @@
+# CS_ETL
+Credit Suisse has partnered with many Fintech companies, through NASSCOM, with the goal  to make India the technology and innovation centre for Credit Suisse. How have these partnerships benefitted Credit Suisse and the Fintech startup culture in India? Also, currently the Fintech industry in India mostly focusses on UPI. Do you believe this trend will change because of the emergence and immense potential of blockchain and cryptocurrencies. - Ankit Karody
